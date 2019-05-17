@@ -3,9 +3,7 @@
 #include <SFML/System.hpp>
 #include <windows.h>
 #include <iostream>
-#include <ctime>
 #include <vector>
-#include <cstdlib>
 #include <algorithm>
 #include <string>
 #include <spaceship.h>

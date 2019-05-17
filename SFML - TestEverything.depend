@@ -413,15 +413,13 @@
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
 
-1557911915 source:c:\users\admin\downloads\[sfml] - test\sfml - spacefrontier\main.cpp
+1558059146 source:c:\users\admin\downloads\[sfml] - test\sfml - spacefrontier\main.cpp
 	<SFML/Graphics.hpp>
 	<SFML/Audio.hpp>
 	<SFML/System.hpp>
 	<windows.h>
 	<iostream>
-	<ctime>
 	<vector>
-	<cstdlib>
 	<algorithm>
 	<string>
 	<spaceship.h>
